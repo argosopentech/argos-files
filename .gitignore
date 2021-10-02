@@ -1,3 +1,7 @@
+# Custom
+*.argosdata
+# End Custom
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

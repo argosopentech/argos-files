@@ -1,0 +1,13 @@
+[
+    {
+        "name": "wikimedia",
+        "type": "data",
+        "from_code": "en",
+        "to_code": "es",
+        "size": 1275297,
+        "reference": "J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)",
+        "links": [
+            "http://data.argosopentech.com/data-wikimedia-en_es.argosdata"
+        ]
+    }
+]
